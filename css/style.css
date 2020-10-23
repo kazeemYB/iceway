@@ -64,7 +64,7 @@ nav{
         overflow-x: hidden;
         background-repeat: none;  /*no background image repeat*/
         background-size: cover;
-        background-image: url('/img/iceway_left.jpg');
+        background-image: url('/img/iceway_left.png');
         background-size: cover;
         background-attachment: fixed;
         /* background-size: 100%; */
