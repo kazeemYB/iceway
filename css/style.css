@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+/* .bg-image {
+    for the background images
+} */
+
 nav{
     display: flex;
     justify-content: space-around;
